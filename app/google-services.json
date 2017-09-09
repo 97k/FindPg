@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "679981689769",
+    "firebase_url": "https://findpg-69d9f.firebaseio.com",
+    "project_id": "findpg-69d9f",
+    "storage_bucket": "findpg-69d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679981689769:android:b27162e0e48a3c26",
+        "android_client_info": {
+          "package_name": "com.example.findingpgassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679981689769-2q6787oa6qvr6ob73ffrn63bopculdfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findingpgassignment",
+            "certificate_hash": "bfbe500eab19098f243607126b6f83ff6194a1d7"
+          }
+        },
+        {
+          "client_id": "679981689769-359e9c7s308r1hiaqfv48cta1uiurn84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwSE57fJ3FAplFqM6JY6P4aaX74sdwUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679981689769-359e9c7s308r1hiaqfv48cta1uiurn84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
